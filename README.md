@@ -1,4 +1,4 @@
-### Just a student trying to get his degree
+# Just a student trying to get his degree
 
 <!--
 **Nohalyan/Nohalyan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
